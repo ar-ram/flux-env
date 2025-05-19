@@ -10,4 +10,4 @@ spec:
   ports:
     - port: 80
       targetPort: 80
-      nodePort: 30081  # You can choose a port between 30000-32767 or omit this to auto-assign
+      nodePort: 30081  # You can choose a port between 30000-32767 or omit this to auto-assign...........
